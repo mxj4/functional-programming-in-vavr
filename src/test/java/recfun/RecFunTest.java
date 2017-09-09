@@ -1,3 +1,5 @@
+package recfun;
+
 import io.vavr.collection.CharSeq;
 import io.vavr.collection.List;
 import org.junit.Test;

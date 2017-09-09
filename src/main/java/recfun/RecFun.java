@@ -1,3 +1,5 @@
+package recfun;
+
 import io.vavr.collection.*;
 
 // Recursion
