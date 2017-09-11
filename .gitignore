@@ -1,5 +1,9 @@
 .gradle/*
 gradle/*
+gradlew*
+
 .idea/*
-out
 *.iml
+
+out/
+build/
